@@ -14,7 +14,7 @@ keywords: "hczhang, haskell, scala, microservice, event sourcing"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2016
 
 # icon between year and author @Footer
 authoricon: heart
@@ -132,8 +132,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+social:
+  GitHub: http://github.com/steven-zhc
 
 
 # Social Links Icons
